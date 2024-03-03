@@ -102,9 +102,8 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
     Developer Tools: VS Code, Git, Google Colab, Kaggle, RoboFlow
 
 ## Contact
-
-    LinkedIn: linkedin.com/in/love-yadav-191621276/
-    Email: loveyadav0710@gmail.com
-    Location: Janakpur-12, Nepal
+LinkedIn: linkedin.com/in/love-yadav-191621276/
+Email: loveyadav0710@gmail.com
+Location: Janakpur-12, Nepal
 
 

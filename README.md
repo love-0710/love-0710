@@ -15,16 +15,23 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
 💡 Open to collaborating
 
+
+
 ## Experience
 
 🎓 Internship at the Indian Statistical Institute | May-July, 2023
 
     AIML, Deep Learning, Computer Vision, and Image Processing
     
+
+
 ## Awards
 
 🏆 Special Mention Project Award, Indian Statistical Institute, July 2023
       
+
+
+
 
 ## 🖥️ Open-Source Projects
 **AI and Automation**

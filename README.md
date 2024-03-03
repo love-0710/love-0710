@@ -29,13 +29,13 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 ## 🖥️ Open-Source Projects
 **AI and Automation**
 
-**Base:**
+**Base:**<br />
 
-    Deep Learning (Under Development)
-    Music, Audio and Speech Analysis (Under Development)
-    Multi Modal Analysis (Under Development)
-    Reinforcement Learning (Not Started)
-    Natural Language Processing (Not Started)
+    Deep Learning (Under Development) <br />
+    Music, Audio and Speech Analysis (Under Development) <br />
+    Multi Modal Analysis (Under Development) <br />
+    Reinforcement Learning (Not Started) <br />
+    Natural Language Processing (Not Started) <br />
     Computer Vision (Not Started)
 
 **Usecases:**

@@ -6,8 +6,8 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 ## Education
 
 🎓 SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY | 2021 - Present
-
-    Bachelor of Computer Science and Engineering
+<br />
+Bachelor of Computer Science and Engineering
 
 🎓 SB HIGH SCHOOL, ARA | 2018 - 2020
 

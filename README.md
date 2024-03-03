@@ -1,8 +1,8 @@
 Hi there 👋
 
 I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in AI research and development (R&D), AIML, Deep Learning, Computer Vision, and Image Processing. I bring demonstrated expertise through various projects and proficiency in frameworks such as Streamlit, Tkinter, Flask, and others.
-
-Education
+**
+Education**
 
 🎓 SIKKIM MANIPAL INSTITUTE OF TECHNOLOGY | 2021 - Present
 

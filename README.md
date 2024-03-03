@@ -15,23 +15,16 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
 💡 Open to collaborating
 
-
-
 ## Experience
 
 🎓 Internship at the Indian Statistical Institute | May-July, 2023
 
     AIML, Deep Learning, Computer Vision, and Image Processing
     
-
-
 ## Awards
 
 🏆 Special Mention Project Award, Indian Statistical Institute, July 2023
       
-
-
-
 
 ## 🖥️ Open-Source Projects
 **AI and Automation**
@@ -95,7 +88,8 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
 **Autism Spectrum Disorder Detection with Deep Learning | January 2024- Ongoing**
 
-    Continuing development to further optimize efficiency and performance.
+    Continuing development from previous efforts to further optimize efficiency and performance.
+    Stay tuned for updates and enhancements!
 
 ## Skills
 

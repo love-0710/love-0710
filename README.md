@@ -2,6 +2,8 @@
 
 I'm ![alt text](https://github.com/love-0710/love-0710/assets/123236986/4cf9cd7a-5314-436a-878c-e20f5ab7a289) knowledgeable in AI research and development (R&D), AIML, Deep Learning, Computer Vision, and Image Processing. I bring demonstrated expertise through various projects and proficiency in frameworks such as Streamlit, Tkinter, Flask, and others.
 
+![image](https://github.com/love-0710/love-0710/assets/123236986/966a40a0-bd16-4378-aa45-c2c1c65f1e46)
+
 
 ## Education
 

@@ -110,7 +110,7 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
 ## Contact
 
-   * LinkedIn: linkedin.com/in/love-yadav-191621276/ <br />
+   * **LinkedIn:** linkedin.com/in/love-yadav-191621276/ <br />
    * Email: loveyadav0710@gmail.com <br />
    * Location: Janakpur-12, Nepal <br />
 

@@ -24,13 +24,13 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
  
 ## Awards
 
-🏆 Special Mention Project Award, Indian Statistical Institute, July 2023
+🏆 Special Mention Project Award, Indian Statistical Institute, July 2023 <br />
       
-<br />
-## 🖥️ Open-Source Projects
+
+## 🖥️ Open-Source Projects <br />
 **AI and Automation**
 
-**Base:**<br />
+**Base:** <br />
     * Deep Learning (Under Development) <br />
     * Music, Audio and Speech Analysis (Under Development) <br />
     * Multi Modal Analysis (Under Development) <br />
@@ -56,19 +56,21 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
 **Autism Spectrum Disorder Using Deep Learning | May 2023 - July 2023**
 
-    * Spearheaded multiple deep learning projects to enhance image recognition capabilities using Convolutional Neural Networks (CNNs). <br />
-    * Achieved a 20% increase in accuracy and reduced overall error rate by 12%. <br />
-    * Developed an advanced ASD Detection system achieving exceptional validation accuracies: <br />
-        * VGG16: 93.75%
-        * VGG19: 96.00%
-        * VGGFaces: 92.50%
-        * Inception V3: 97.50%
-        * ResNet50: 97.50%
+  *  Spearheaded multiple deep learning projects to enhance image recognition capabilities using Convolutional Neural Networks (CNNs). <br />
+  *  Achieved a 20% increase in accuracy and reduced overall error rate by 12%. <br />
+  *  Developed an advanced ASD Detection system achieving exceptional validation accuracies: <br />
+      * VGG16: 93.75% <br/>
+      * VGG19: 96.00% <br />
+      * VGGFaces: 92.50% <br />
+      * Inception V3: 97.50% <br />
+      * ResNet50: 97.50% <br />
+
 
 **Covid-19 Detection Project | July-August, 2023**
 
-    * Implemented cutting-edge COVID-19 Detection using VGG19 model.
-    * Achieved an impressive accuracy of 95% and reduced diagnosis time by 50%.
+   * Implemented cutting-edge COVID-19 Detection using VGG19 model. <br />
+   * Achieved an impressive accuracy of 95% and reduced diagnosis time by 50%. <br />
+
 
 **DCASE Audio Classification | August-September, 2023**
 
@@ -79,7 +81,7 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
   *  Successfully implemented a state-of-the-art Brain Tumor Detection system using the powerful VGG16 model with MRI-Scan data. <br />
   *  Achieved an impressive accuracy of 98.9%, significantly enhancing diagnostic precision. <br />
-  *  Ongoing efforts involve data preprocessing, model training, fine-tuning, and evaluation phases.
+  *  Ongoing efforts involve data preprocessing, model training, fine-tuning, and evaluation phases. <br />
 
 **Skin Diseases Detection | January 2024- Ongoing**
 
@@ -101,10 +103,10 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
    * Technical Specializations: Machine Learning, Deep Learning & Image Processing <br />
    * Developer Tools: VS Code, Git, Google Colab, Kaggle, RoboFlow <br />
 
+
 ## Contact
 
-    * LinkedIn: linkedin.com/in/love-yadav-191621276/ <br />
-    * Email: loveyadav0710@gmail.com <br />
-    * Location: Janakpur-12, Nepal <br />
-
+   * LinkedIn: linkedin.com/in/love-yadav-191621276/ <br />
+   * Email: loveyadav0710@gmail.com <br />
+   * Location: Janakpur-12, Nepal <br />
 

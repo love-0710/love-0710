@@ -121,7 +121,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 ## Contact
 
-   * **LinkedIn:** linkedin.com/in/love-yadav-191621276/ <br />
+   * **LinkedIn:** [linkedin.com/in/love-yadav-191621276/](https://www.linkedin.com/in/love-yadav-191621276/) <br />
    * **Email:** loveyadav0710@gmail.com <br />
    * **Location:** Janakpur-12, Nepal <br />
 

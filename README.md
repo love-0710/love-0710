@@ -59,12 +59,12 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 **College Lab Work:**
 
-   * [Operating System] (https://github.com/love-0710/Operating-System-Lab) <br />
-   * [Database Management System] (https://github.com/love-0710/Database-Management-System-DBMS--lab) <br />
-   * [Design And Algorithm] (https://github.com/love-0710/Design-And-Algorithm-lab) <br />
-   * [Advance - Programming] (https://github.com/love-0710/Advance-programming-lab) <br />
-   * [Data Structure Using C] (https://github.com/love-0710/Data-Structure-Using-C--lab) <br />
-   * [CPP Programming] (https://github.com/love-0710/CPP-programming) <br />
+   * [Operating System](https://github.com/love-0710/Operating-System-Lab) <br />
+   * [Database Management System](https://github.com/love-0710/Database-Management-System-DBMS--lab) <br />
+   * [Design And Algorithm](https://github.com/love-0710/Design-And-Algorithm-lab) <br />
+   * [Advance - Programming](https://github.com/love-0710/Advance-programming-lab) <br />
+   * [Data Structure Using C](https://github.com/love-0710/Data-Structure-Using-C--lab) <br />
+   * [CPP Programming](https://github.com/love-0710/CPP-programming) <br />
 
 
 ## ML Project Details

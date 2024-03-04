@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in AI research and development (R&D), AIML, Deep Learning, Computer Vision, and Image Processing. I bring demonstrated expertise through various projects and proficiency in frameworks such as Streamlit, Tkinter, Flask, and others.
+I'm ![alt text](https://github.com/love-0710/love-0710/assets/123236986/4cf9cd7a-5314-436a-878c-e20f5ab7a289) knowledgeable in AI research and development (R&D), AIML, Deep Learning, Computer Vision, and Image Processing. I bring demonstrated expertise through various projects and proficiency in frameworks such as Streamlit, Tkinter, Flask, and others.
 
 
 ## Education
@@ -99,18 +99,18 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
 ## Skills
 
-   * Languages: C/C++, Python <br/>
-   * Web Development: HTML <br />
-   * GUI: Streamlit Framework <br />
-   * Database: MySQL, DBMS, MongoDB (basic), Django (basic) <br />
-   * Data Analysis: Numpy, Pandas, Matplotlib <br />
-   * Technical Specializations: Machine Learning, Deep Learning & Image Processing <br />
-   * Developer Tools: VS Code, Git, Google Colab, Kaggle, RoboFlow <br />
+   * **Languages:** C/C++, Python <br/>
+   * **Web Development:** HTML <br />
+   * **GUI:** Streamlit Framework <br />
+   * **Database:** MySQL, DBMS, MongoDB (basic), Django (basic) <br />
+   * **Data Analysis:** Numpy, Pandas, Matplotlib <br />
+   * **Technical Specializations:** Machine Learning, Deep Learning & Image Processing <br />
+   * **Developer Tools:** VS Code, Git, Google Colab, Kaggle, RoboFlow <br />
 
 
 ## Contact
 
    * **LinkedIn:** linkedin.com/in/love-yadav-191621276/ <br />
-   * Email: loveyadav0710@gmail.com <br />
-   * Location: Janakpur-12, Nepal <br />
+   * **Email:** loveyadav0710@gmail.com <br />
+   * **Location:** Janakpur-12, Nepal <br />
 

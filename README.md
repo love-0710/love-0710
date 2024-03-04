@@ -19,31 +19,34 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
 🎓 Internship at the Indian Statistical Institute | May-July, 2023
 
-    * Engaged in AIML, Deep Learning, Computer Vision, and Image Processing projects.
+     Engaged in AIML, Deep Learning, Computer Vision, and Image Processing projects.
 
  
 ## Awards
 
-🏆 Special Mention Project Award, Indian Statistical Institute, July 2023 <br />
+🏆 Special Mention Project Award, Indian Statistical Institute, July 2023 <br /> <br />
       
 
 ## 🖥️ Open-Source Projects <br />
 **AI and Automation**
 
-**Base:** <br />
-    * Deep Learning (Under Development) <br />
-    * Music, Audio and Speech Analysis (Under Development) <br />
-    * Multi Modal Analysis (Under Development) <br />
-    * Reinforcement Learning (Not Started) <br />
-    * Natural Language Processing (Not Started) <br />
-    * Computer Vision (Not Started)
+**Base:**
+
+   * Deep Learning (Under Development) <br />
+   * Music, Audio and Speech Analysis (Under Development) <br />
+   * Multi Modal Analysis (Under Development) <br />
+   * Reinforcement Learning (Not Started) <br />
+   * Natural Language Processing (Not Started) <br />
+   * Computer Vision (Not Started) <br />
+
 
 **Usecases:**
 
-    * Medical Analysis (Under Development) <br />
-    * Financial Analysis (Under Development) <br />
-    * AI in Travel and Transport. (Not Started) <br />
-    * Automated Threat Detection. (Not Started) <br />
+   * Medical Analysis (Under Development) <br />
+   * Financial Analysis (Under Development) <br />
+   * AI in Travel and Transport. (Not Started) <br />
+   * Automated Threat Detection. (Not Started) <br />
+
 
 **Frontend:**
 

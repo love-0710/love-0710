@@ -50,10 +50,11 @@ I'm 🅻🅾🆅🅴 🅺🆄🅼🅰🆁 🆈🅰🅳🅰🆅, knowledgeable in
 
 **Frontend:**
 
-    * Streamlit Framework <br />
-    * Tkinter Framework <br />
-    * Flask Framework <br />
-    * Flutter Framework (Basics) <br />
+   * Streamlit Framework <br />
+   * Tkinter Framework <br />
+   * Flask Framework <br />
+   * Flutter Framework (Basics) <br />
+
 
 ## ML Project Details
 

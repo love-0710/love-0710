@@ -55,7 +55,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 - [TensorFlow Lite Inference](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/tflite_inference.py)
 
-- [Resize Input Size of TensorFlow Model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/changing_model_input_size.py) 
+- [Resize Input Size of Dumped/Saved TensorFlow Model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/changing_model_input_size.py) 
 
 - [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py) 
 

@@ -95,8 +95,9 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 **[DCASE Audio Classification](https://github.com/love-0710/DCASE-Audio-Classification/tree/main) | August-September, 2023**
 
-   * Conducted a DCASE (Detection and Classification of Acoustic Scenes and Events) Audio Classification project. <br />
-   * Achieved an accuracy of 58%.
+- Conducted a DCASE (Detection and Classification of Acoustic Scenes and Events) Audio Classification project.
+- Achieved an accuracy of 58% using basic parameters,including 14 MFCC features and more, with CNN and RNN models trained on an 11 GB dataset.
+- Achieved an accuracy of over 80% using optimized parameters, including 14 MFCC features and more, with CNN and RNN models trained on a 30 GB dataset.
 
 **Brain Tumor Detection | January 2024 - Ongoing**
 

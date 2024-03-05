@@ -49,21 +49,23 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * Flutter Framework (Basics) <br />
 
 **[ML Code checker](https://github.com/love-0710/ML-data-checker-or-Modifier)**
-- [MFCC-Abstraction-along_with-Metadata_&_captions-Extraction](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC-Abstraction-and-Metadata-Extraction.py) : Useful for Task 6 of the DCASE 2023 (**IEEE**)
-- [Checking dataset Cointain ROI or not](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/dataset_roi_check.ipynb)
+
+- [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py)
+- [Resize Input Size of Dumped/Saved TensorFlow Model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/changing_model_input_size.py) 
 
 - [Convert Keras Model to TensorFlow Lite](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/convert_keras_model_to_tflite.py)
 
 - [TensorFlow Lite Inference](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/tflite_inference.py)
 
-- [Resize Input Size of Dumped/Saved TensorFlow Model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/changing_model_input_size.py) 
-
-- [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py) 
 
 - [Split Dataset into Train, Test, and Validation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/spliting_dataset.py)
+
+- [Checking dataset Cointain ROI or not](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/dataset_roi_check.ipynb)
+  
 - [Rename Files in Dataset](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/rename.py)
 - [Agmentation-ImageDataGenerator](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/Agumentation_image.py)
 - [MFCC-Data-Augmentation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC_Data_Augumenattion.py)
+- [MFCC-Abstraction-along_with-Metadata_&_captions-Extraction](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC-Abstraction-and-Metadata-Extraction.py) : Useful for Task 6 of the DCASE 2023 (**IEEE**)
   
 **College Lab Work:**
 

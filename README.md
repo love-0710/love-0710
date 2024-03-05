@@ -65,7 +65,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 - [Rename Files in Dataset](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/rename.py)
 - [Agmentation-ImageDataGenerator](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/Agumentation_image.py)
 - [MFCC-Data-Augmentation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC_Data_Augumenattion.py)
-- [MFCC-Abstraction-along_with-Metadata_&_captions-Extraction](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC-Abstraction-and-Metadata-Extraction.py) : Useful for Task 6 of the DCASE 2023 (**IEEE**)
+- [MFCC-Abstraction-along_with-Metadata_&_captions-Extraction](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC-Abstraction-and-Metadata-Extraction.py) **: Useful for Task 6 of the DCASE 2023 (IEEE)**
   
 **College Lab Work:**
 

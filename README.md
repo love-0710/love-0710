@@ -94,7 +94,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * Achieved an impressive accuracy of 95% and reduced diagnosis time by 50%. <br />
 
 
-**[DCASE-2021 Task-1 Audio Classification](https://github.com/love-0710/DCASE-Audio-Classification/tree/main) | August-September, 2023**
+**[DCASE-2021 Task-1 (IEEE) Audio Classification](https://github.com/love-0710/DCASE-Audio-Classification/tree/main) | August-September, 2023**
 
 - Conducted a DCASE (Detection and Classification of Acoustic Scenes and Events) Audio Classification project.
 - Achieved an accuracy of 58% using basic parameters,including 14 MFCC features and more, with CNN and RNN models trained on an 11 GB dataset.

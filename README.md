@@ -60,7 +60,9 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 - [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py) 
 
 - [Split Dataset into Train, Test, and Validation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/spliting_dataset.py)
-
+- [Rename Files in Dataset](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/rename.py)
+- [Agmentation-ImageDataGenerator](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/Agumentation_image.py)
+  
 **College Lab Work:**
 
    * [Operating System](https://github.com/love-0710/Operating-System-Lab) <br />

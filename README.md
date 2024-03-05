@@ -63,6 +63,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 - [Split Dataset into Train, Test, and Validation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/spliting_dataset.py)
 - [Rename Files in Dataset](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/rename.py)
 - [Agmentation-ImageDataGenerator](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/Agumentation_image.py)
+- [MFCC-Data-Augmentation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC_Data_Augumenattion.py)
   
 **College Lab Work:**
 

@@ -36,18 +36,10 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * Deep Learning (Under Development) <br />
    * Music, Audio and Speech Analysis (Under Development) <br />
    * Multi Modal Analysis (Under Development) <br />
-   * Reinforcement Learning (Not Started) <br />
-   * Natural Language Processing (Not Started) <br />
-   * Computer Vision (Not Started) <br />
-
-
-**Usecases:**
-
    * Medical Analysis (Under Development) <br />
    * Financial Analysis (Under Development) <br />
-   * AI in Travel and Transport. (Not Started) <br />
-   * Automated Threat Detection. (Not Started) <br />
-
+   * Natural Language Processing (Not Started) <br />
+   * Computer Vision (Not Started) <br />
 
 **Frontend:**
 
@@ -57,6 +49,15 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * Flutter Framework (Basics) <br />
 
 [ML Code checker](https://github.com/love-0710/ML-data-checker-or-Modifier)
+- [Checking dataset Cointain ROI or not](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/dataset_roi_check.ipynb)
+
+- [Convert Keras Model to TensorFlow Lite](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/convert_keras_model_to_tflite.py)
+
+- [TensorFlow Lite Inference](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/tflite_inference.py)
+
+- [Resize Input Size of TensorFlow Model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/changing_model_input_size.py) 
+
+- [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py) 
 
 **College Lab Work:**
 

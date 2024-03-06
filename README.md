@@ -133,8 +133,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * **Database:** MySQL, DBMS, MongoDB (basic), Django (basic) <br />
    * **Soft Skills:** Teamwork, Leadership, Communication Skills, Problem-Solving <br />
    * **Technical Specializations:** Machine Learning, Deep Learning & Image Processing <br />
-   * **Developer Tools:** VS Code, Git, Linux, Windows, Google Colab, Kaggle, RoboFlow <br />
-   * 
+   * **Developer Tools:** VS Code, Git, Linux, Windows, Google Colab, Kaggle, RoboFlow, R studio <br />
 
 ## Contact
 

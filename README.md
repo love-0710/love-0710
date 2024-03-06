@@ -24,7 +24,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 - Engaged in research projects and practical applications under the guidance of experienced professionals.
 - Gained hands-on experience in utilizing advanced algorithms and techniques in AIML and Deep Learning to solve real-world problems.
 
-**Research Assistant at the Sikkim Manipal Institute of Technology | Aug, 2023 - Feb, 2024**
+**🎓 Research Assistant at the Sikkim Manipal Institute of Technology | August, 2023 - February, 2024**
 - Collaborated with Assistant Professor Vikash Singh on the DCASE 2021 challenge project.
 - Contributed to the design, implementation, and evaluation of algorithms and models for sound event detection.
  

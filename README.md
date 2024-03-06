@@ -14,14 +14,19 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
     +2 Higher Secondary
 
-💡 Open to collaborating
+**💡 Open to collaborating**
 
 ## Experience
 
-🎓 Internship at the Indian Statistical Institute | May-July, 2023
+**🎓 Internship at the Indian Statistical Institute | May-July, 2023**
 
-     Engaged in AIML, Deep Learning, Computer Vision, and Image Processing projects.
+- Completed an internship focusing on artificial intelligence and machine learning (AIML), deep learning, image processing, and computer vision.
+- Engaged in research projects and practical applications under the guidance of experienced professionals.
+- Gained hands-on experience in utilizing advanced algorithms and techniques in AIML and Deep Learning to solve real-world problems.
 
+**Research Assistant at the Sikkim Manipal Institute of Technology | Aug, 2023 - Feb, 2024**
+- Collaborated with Assistant Professor Vikash Singh on the DCASE 2021 challenge project.
+- Contributed to the design, implementation, and evaluation of algorithms and models for sound event detection.
  
 ## Awards
 
@@ -121,14 +126,15 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 ## Skills
 
+   * **GUI:** Streamlit Framework <br />
    * **Languages:** C/C++, Python <br/>
    * **Web Development:** HTML <br />
-   * **GUI:** Streamlit Framework <br />
-   * **Database:** MySQL, DBMS, MongoDB (basic), Django (basic) <br />
    * **Data Analysis:** Numpy, Pandas, Matplotlib <br />
+   * **Database:** MySQL, DBMS, MongoDB (basic), Django (basic) <br />
+   * **Soft Skills:** Teamwork, Leadership, Communication Skills, Problem-Solving <br />
    * **Technical Specializations:** Machine Learning, Deep Learning & Image Processing <br />
-   * **Developer Tools:** VS Code, Git, Google Colab, Kaggle, RoboFlow <br />
-
+   * **Developer Tools:** VS Code, Git, Linux, Windows, Google Colab, Kaggle, RoboFlow <br />
+   * 
 
 ## Contact
 

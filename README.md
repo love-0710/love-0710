@@ -28,6 +28,10 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 - Collaborated with Assistant Professor Vikash Singh on the DCASE 2021 challenge project.
 - Contributed to the design, implementation, and evaluation of algorithms and models for sound event detection.
  
+**🎓 Research Assistant at the Sikkim Manipal Institute of Technology | March, 2024 - Ongoing**
+- Collaborated with Assistant Dr. Sandeep Gurung on the GAN (Generative Adversarial Network) challenge project.
+- Contributed to the design, implementation, and evaluation of algorithms and models for for cryptography.
+ 
 ## Awards
 
 🏆 Special Mention Project Award, Indian Statistical Institute, July 2023 <br /> <br />

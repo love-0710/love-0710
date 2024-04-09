@@ -57,6 +57,15 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * Flask Framework <br />
    * Flutter Framework (Basics) <br />
 
+🖥️ **College Lab Work:**
+
+   * [Operating System](https://github.com/love-0710/Operating-System-Lab) <br />
+   * [Database Management System](https://github.com/love-0710/Database-Management-System-DBMS--lab) <br />
+   * [Design And Algorithm](https://github.com/love-0710/Design-And-Algorithm-lab) <br />
+   * [Advance - Programming](https://github.com/love-0710/Advance-programming-lab) <br />
+   * [Data Structure Using C](https://github.com/love-0710/Data-Structure-Using-C--lab) <br />
+   * [CPP Programming](https://github.com/love-0710/CPP-programming) <br />
+
 
 ## Skills
 
@@ -75,9 +84,10 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * **Email:** loveyadav0710@gmail.com <br />
    * **Location:** Janakpur-12, Nepal <br />
 
+<br />
+<br />
 
-
-## DeepLearning Project
+## 🖥️ DeepLearning Project
 
 **[Autism Spectrum Disorder Using Deep Learning](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning)** 
 
@@ -95,12 +105,15 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 **Covid-19 Detection Project**
 
-## Machine Learning Project
+<br />
+<br />
+
+## 🖥️  Machine Learning Project
 
 
 
 
-**[ML Code checker](https://github.com/love-0710/ML-data-checker-or-Modifier)**
+## 🖥️ **[ML Code checker](https://github.com/love-0710/ML-data-checker-or-Modifier)**
 
 - [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py)
 - [Resize Input Size of Dumped/Saved TensorFlow Model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/changing_model_input_size.py) 
@@ -119,11 +132,3 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 - [MFCC-Data-Augmentation](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC_Data_Augumenattion.py)
 - [MFCC-Abstraction-along_with-Metadata_&_captions-Extraction](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/MFCC-Abstraction-and-Metadata-Extraction.py) **: Useful for Task 6 of the DCASE 2023 (IEEE)**
   
-**College Lab Work:**
-
-   * [Operating System](https://github.com/love-0710/Operating-System-Lab) <br />
-   * [Database Management System](https://github.com/love-0710/Database-Management-System-DBMS--lab) <br />
-   * [Design And Algorithm](https://github.com/love-0710/Design-And-Algorithm-lab) <br />
-   * [Advance - Programming](https://github.com/love-0710/Advance-programming-lab) <br />
-   * [Data Structure Using C](https://github.com/love-0710/Data-Structure-Using-C--lab) <br />
-   * [CPP Programming](https://github.com/love-0710/CPP-programming) <br />

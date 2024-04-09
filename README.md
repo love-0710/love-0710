@@ -37,7 +37,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 🏆 Special Mention Project Award, Indian Statistical Institute, July 2023 <br /> <br />
       
 
-##  Open-Source Projects <br />
+## 🖥️ Open-Source Projects <br />
 **AI and Automation**
 
 **Base:**
@@ -57,7 +57,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * Flask Framework <br />
    * Flutter Framework (Basics) <br />
 
-🖥️ **College Lab Work:**
+**College Lab Work:**
 
    * [Operating System](https://github.com/love-0710/Operating-System-Lab) <br />
    * [Database Management System](https://github.com/love-0710/Database-Management-System-DBMS--lab) <br />

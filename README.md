@@ -37,7 +37,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 🏆 Special Mention Project Award, Indian Statistical Institute, July 2023 <br /> <br />
       
 
-## 🖥️ Open-Source Projects <br />
+##  Open-Source Projects <br />
 **AI and Automation**
 
 **Base:**
@@ -105,8 +105,6 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 **Covid-19 Detection Project**
 
-<br />
-<br />
 
 ## 🖥️  Machine Learning Project
 

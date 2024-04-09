@@ -84,16 +84,16 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 ## ML Project Details
 
-**[Autism Spectrum Disorder Using Deep Learning](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-DeepLearning/tree/main) | May 2023 - July 2023** 
+**[Autism Spectrum Disorder Using Deep Learning](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning) | May 2023 - July 2023** 
 
   *  Spearheaded multiple deep learning projects to enhance image recognition capabilities using Convolutional Neural Networks (CNNs). <br />
   *  Achieved a 20% increase in accuracy and reduced overall error rate by 12%. <br />
   *  Developed an advanced ASD Detection system achieving exceptional validation accuracies: <br />
-      * [VGG16: 93.75%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-DeepLearning/blob/main/ASD_v4_VGG16_keras_tensorflow.ipynb) <br/>
-      * VGG19: 96.00% <br />
-      * VGGFaces: 92.50% <br />
-      * Inception V3: 97.50% <br />
-      * ResNet50: 97.50% <br />
+      * [VGG16: 93.75%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD_using%20VGG16) <br/>
+      * [VGG19: 96.00%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20VGG19) <br />
+      * [VGGFaces: 92.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20VGGFaces) <br />
+      * [Inception V3: 97.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20Inception%20V3) <br />
+      * [ResNet50: 97.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20USing%20ResNet50) <br />
 
 
 **Covid-19 Detection Project | July-August, 2023**

@@ -82,47 +82,21 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * [CPP Programming](https://github.com/love-0710/CPP-programming) <br />
 
 
-## ML Project Details
+## DeepLearning Project
 
-**[Autism Spectrum Disorder Using Deep Learning](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning) | May 2023 - July 2023** 
-
-  *  Spearheaded multiple deep learning projects to enhance image recognition capabilities using Convolutional Neural Networks (CNNs). <br />
-  *  Achieved a 20% increase in accuracy and reduced overall error rate by 12%. <br />
-  *  Developed an advanced ASD Detection system achieving exceptional validation accuracies: <br />
+**[Autism Spectrum Disorder Using Deep Learning](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning)** 
       * [VGG16: 93.75%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD_using%20VGG16) <br/>
       * [VGG19: 96.00%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20VGG19) <br />
       * [VGGFaces: 92.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20VGGFaces) <br />
       * [Inception V3: 97.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20Inception%20V3) <br />
       * [ResNet50: 97.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20USing%20ResNet50) <br />
 
+**[DCASE-2021 Task-1 (IEEE) Audio Classification](https://github.com/love-0710/DCASE-Audio-Classification/tree/main)**
+**Brain Tumor Detection**
+**Skin Diseases Detection**
+**Covid-19 Detection Project**
 
-**Covid-19 Detection Project | July-August, 2023**
-
-   * Implemented cutting-edge COVID-19 Detection using VGG19 model. <br />
-   * Achieved an impressive accuracy of 95% and reduced diagnosis time by 50%. <br />
-
-
-**[DCASE-2021 Task-1 (IEEE) Audio Classification](https://github.com/love-0710/DCASE-Audio-Classification/tree/main) | August-September, 2023**
-
-- Conducted a DCASE (Detection and Classification of Acoustic Scenes and Events) Audio Classification project.
-- Achieved an accuracy of 58% using basic parameters,including 14 MFCC features and more, with CNN and RNN models trained on an 11 GB dataset.
-- Achieved an accuracy of over 80% using optimized parameters, including 14 MFCC features and more, with CNN and RNN models trained on a 30 GB dataset.
-
-**Brain Tumor Detection | January 2024 - Ongoing**
-
-  *  Successfully implemented a state-of-the-art Brain Tumor Detection system using the powerful VGG16 model with MRI-Scan data. <br />
-  *  Achieved an impressive accuracy of 98.9%, significantly enhancing diagnostic precision. <br />
-  *  Ongoing efforts involve data preprocessing, model training, fine-tuning, and evaluation phases. <br />
-
-**Skin Diseases Detection | January 2024- Ongoing**
-
-   * Leveraging advanced deep learning techniques, particularly utilizing the powerful ResNet50 architecture. <br />
-   * Expected outcomes include the deployment of a reliable and efficient skin diseases detection model with high accuracy and generalization capabilities. <br />
-
-**Autism Spectrum Disorder Detection with Deep Learning | January 2024- Ongoing**
-
-  *  Continuing development from previous efforts to further optimize efficiency and performance. <br />
-  *  Stay tuned for updates and enhancements! <br />
+## Machine Learning Project
 
 ## Skills
 

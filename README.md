@@ -57,6 +57,26 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * Flask Framework <br />
    * Flutter Framework (Basics) <br />
 
+
+## Skills
+
+   * **GUI:** Streamlit Framework <br />
+   * **Languages:** C/C++, Python <br/>
+   * **Web Development:** HTML <br />
+   * **Data Analysis:** Numpy, Pandas, Matplotlib <br />
+   * **Database:** MySQL, DBMS, MongoDB (basic), Django (basic) <br />
+   * **Soft Skills:** Teamwork, Leadership, Communication Skills, Problem-Solving <br />
+   * **Technical Specializations:** Machine Learning, Deep Learning & Image Processing <br />
+   * **Developer Tools:** VS Code, Git, Linux, Windows, Google Colab, Kaggle, RoboFlow, R studio <br />
+
+## Contact
+
+   * **LinkedIn:** [linkedin.com/in/love-yadav-191621276/](https://www.linkedin.com/in/love-yadav-191621276/) <br />
+   * **Email:** loveyadav0710@gmail.com <br />
+   * **Location:** Janakpur-12, Nepal <br />
+
+
+
 **[ML Code checker](https://github.com/love-0710/ML-data-checker-or-Modifier)**
 
 - [Checking the overall quality of saved model](https://github.com/love-0710/ML-data-checker-or-Modifier/blob/main/checking_overall_quality_of_saved_model.py)
@@ -105,21 +125,3 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 **Covid-19 Detection Project**
 
 ## Machine Learning Project
-
-## Skills
-
-   * **GUI:** Streamlit Framework <br />
-   * **Languages:** C/C++, Python <br/>
-   * **Web Development:** HTML <br />
-   * **Data Analysis:** Numpy, Pandas, Matplotlib <br />
-   * **Database:** MySQL, DBMS, MongoDB (basic), Django (basic) <br />
-   * **Soft Skills:** Teamwork, Leadership, Communication Skills, Problem-Solving <br />
-   * **Technical Specializations:** Machine Learning, Deep Learning & Image Processing <br />
-   * **Developer Tools:** VS Code, Git, Linux, Windows, Google Colab, Kaggle, RoboFlow, R studio <br />
-
-## Contact
-
-   * **LinkedIn:** [linkedin.com/in/love-yadav-191621276/](https://www.linkedin.com/in/love-yadav-191621276/) <br />
-   * **Email:** loveyadav0710@gmail.com <br />
-   * **Location:** Janakpur-12, Nepal <br />
-

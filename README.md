@@ -65,6 +65,8 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * [Advance - Programming](https://github.com/love-0710/Advance-programming-lab) <br />
    * [Data Structure Using C](https://github.com/love-0710/Data-Structure-Using-C--lab) <br />
    * [CPP Programming](https://github.com/love-0710/CPP-programming) <br />
+   * [Computer Network](https://github.com/love-0710/Computer-Network-Lab) <br />
+   * [Parallel Processing](https://github.com/love-0710/Parallel-Programming-Lab) <br />
 
 
 ## Skills

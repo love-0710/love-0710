@@ -101,16 +101,25 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 **[DCASE-2021 Task-1 (IEEE) Audio Classification](https://github.com/love-0710/DCASE-Audio-Classification/tree/main)**
 
-**Brain Tumor Detection**
+-    Brain Tumor Detection
 
-**Skin Diseases Detection**
+-    Skin Diseases Detection
 
-**Covid-19 Detection Project**
+-    Covid-19 Detection Project
 
 
 ## 🖥️  Machine Learning Project
 
-
+-    Shap Explaination
+-    EOG Signal Detection
+-    EMG signal Detection
+-    Rank Attack Detection 
+-    Dodag Attack Detection
+-    Flooding Attack Detection
+-    Blackhole Attack Detection
+-    100Plus Normalization Techniques
+-    Ensemble Technique for same class and same Feature Dataset
+-    Ensemble Technique for different class and different Feature Dataset
 
 
 ## 🖥️ **[ML Code checker](https://github.com/love-0710/ML-data-checker-or-Modifier)**

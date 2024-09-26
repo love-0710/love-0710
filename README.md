@@ -47,8 +47,8 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
    * Multi Modal Analysis (Under Development) <br />
    * Medical Analysis (Under Development) <br />
    * Financial Analysis (Under Development) <br />
-   * Natural Language Processing (Not Started) <br />
-   * Computer Vision (Not Started) <br />
+   * Natural Language Processing (Under Development) <br />
+   * Computer Vision (Under Development) <br />
 
 **Frontend:**
 

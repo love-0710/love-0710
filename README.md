@@ -91,15 +91,15 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 
 ## 🖥️ DeepLearning Project
 
-**[Autism Spectrum Disorder Using Deep Learning](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning)** 
+-    [Autism Spectrum Disorder Using Deep Learning](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning) 
 
-   * [VGG16: 93.75%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD_using%20VGG16) <br/>
-   * [VGG19: 96.00%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20VGG19) <br />
-   * [VGGFaces: 92.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20VGGFaces) <br />
-   * [Inception V3: 97.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20Inception%20V3) <br />
-   * [ResNet50: 97.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20USing%20ResNet50) <br />
+       * [VGG16: 93.75%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD_using%20VGG16) <br/>
+       * [VGG19: 96.00%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20VGG19) <br />
+       * [VGGFaces: 92.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20VGGFaces) <br />
+       * [Inception V3: 97.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20Using%20Inception%20V3) <br />
+       * [ResNet50: 97.50%](https://github.com/love-0710/Autism-Spectrum-Disorder-Using-Deep-Learning/tree/main/ASD%20USing%20ResNet50) <br />
 
-**[DCASE-2021 Task-1 (IEEE) Audio Classification](https://github.com/love-0710/DCASE-Audio-Classification/tree/main)**
+-    DCASE-2021 Task-1 (IEEE) Audio Classification](https://github.com/love-0710/DCASE-Audio-Classification/tree/main)
 
 -    Brain Tumor Detection
 
@@ -120,6 +120,7 @@ Knowledgeable in AI research and development (R&D), AIML, Deep Learning, Compute
 -    100Plus Normalization Techniques
 -    Ensemble Technique for same class and same Feature Dataset
 -    Ensemble Technique for different class and different Feature Dataset
+-    Ensemble Technique for different class and different Feature Dataset Using Neural Network
 
 
 ## 🖥️ **[ML Code checker](https://github.com/love-0710/ML-data-checker-or-Modifier)**
